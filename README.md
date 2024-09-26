@@ -6,7 +6,8 @@ This project is a simple course-selling application that supports two types of u
 1. **Admins**: Can sign up, create courses, and view all available courses.
 2. **Users**: Can sign up, view courses, purchase courses, and view purchased courses.
 
-The app mimics a real-world platform like Udemy, allowing admins to manage courses and users to buy them. The app uses MongoDB as the database, so ensure that a MongoDB instance is set up before starting the project.
+The app mimics a real-world platform like Udemy, allowing admins to manage courses and users to buy them. 
+The app uses MongoDB as the database, so ensure that a MongoDB instance is set up before starting the project.
 
 ## Features
 - Admins can create accounts and add new courses.
